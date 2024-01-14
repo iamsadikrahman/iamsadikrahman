@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **React, Next js, Vue**
 
-- 👨‍💻 All of my projects are available at [https://sadik.tech/projects](https://sadik.tech/projects)
+- 👨‍💻 All of my projects are available at [https://sadik.dev/projects](https://sadik.dev/projects)
 
-- 📝 I regularly write articles on [https://sadik.tech/blog](https://sadik.tech/blog)
+- 📝 I regularly write articles on [https://sadik.dev/blog](https://sadik.dev/blog)
 
 - 💬 Ask me about **react, next js , vue**
 
 - 📫 How to reach me **sadikrahmanlotus@gmail.com.com**
 
-- 📄 Know about my experiences [https://sadik.tech](https://sadik.tech)
+- 📄 Know about my experiences [https://sadik.dev](https://sadik.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
