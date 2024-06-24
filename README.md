@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, next js , vue**
 
-- 📫 How to reach me **sadikrahmanlotus@gmail.com.com**
+- 📫 How to reach me **sadik@sadik.dev**
 
 - 📄 Know about my experiences [https://sadik.dev](https://sadik.dev)
 
